@@ -4,29 +4,53 @@ Answer the following questions for each of the data structures you implemented a
 
 1. What is the runtime complexity of `push` using a list?
 
+O(c)
+
 2. What is the runtime complexity of `push` using a linked list?
+
+O(c)
 
 3. What is the runtime complexity of `pop` using a list?
 
+O(c)
+
 4. What is the runtime complexity of `pop` using a linked list?
+
+O(c)
 
 5. What is the runtime complexity of `len` using a list?
 
+O(c)
+
 6. What is the runtime complexity of `len` using a linked list?
+
+O(c)
 
 ## Queue
 
 1. What is the runtime complexity of `enqueue` using a list?
 
+O(c)
+
 2. What is the runtime complexity of `enqueue` using a linked list?
+
+O(c)
 
 3. What is the runtime complexity of `dequeue` using a list?
 
+O(c)
+
 4. What is the runtime complexity of `dequeue` using a linked list?
+
+O(c)
 
 5. What is the runtime complexity of `len` using a list?
 
+O(c)
+
 6. What is the runtime complexity of `len` using a linked list?
+
+O(c)
 
 ## Doubly Linked List
 
