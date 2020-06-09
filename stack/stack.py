@@ -16,12 +16,12 @@ they are faster to access, but slower in addition or deletion of elements.
 
 linked lists are not stored sequentially in memory. 
 each element holds the address of the next element. 
-they are slower to access but faster in addition or deletion of elements.
+they are slower to access but faster in addition or deletion of elrements.
 
 in stacks, you add items to the back and remove items from the back.
 
 """
-[1, 2, 3]
+
 # class Stack:
 #     def __init__(self):
 #         self.size = 0
